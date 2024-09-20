@@ -1,0 +1,2 @@
+The goal is to build a prerdictive model with high accuracy
+Achieving success in machine learning requires consistent effort and experimentation
